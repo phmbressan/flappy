@@ -1,0 +1,17 @@
+[project]
+name = "flappy"
+version = "0.1.0"
+description = "A Flappy Bird game by pygame played by a reinforcement learning agent."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.2.5",
+    "pygame>=2.6.1",
+    "torch>=2.7.0",
+]
+
+[dependency-groups]
+lint = [
+    "pylint>=3.3.7",
+    "ruff>=0.11.9",
+]
