@@ -40,5 +40,5 @@ The model weights are saved in the `data` directory (`data/flappy_ai.pt`).
 
 Executing the script in `watch` mode with the pre-trained model:
 
-![Flappy Bird Game](data/static/flappy_ai_example.mp4)
+https://github.com/user-attachments/assets/2d21a7a5-f6a2-4099-a9b1-5edf531d444e
 
